@@ -1,13 +1,12 @@
-# [HTML5 Boilerplate](http://html5boilerplate.com)
+# [WebAppl with HTML5 Boilerplate](http://www.polymathworkshop.com/webappl)
+
+WebAppl is a slim HTML5/CSS3 responsive (PC, mobile, tablet) design meant to mimic iOS app menu and display functionality.  For an example in the wild, visit [Polymath Workshop](http://www.polymathworkshop.com)
+
+-----
 
 HTML5 Boilerplate is a professional front-end template that helps you build fast, robust, adaptable, and future-proof websites. Spend more time developing and less time reinventing the wheel.
 
 This project is the product of many years of iterative development and combined community knowledge. It does not impose a specific development philosophy or framework, so you're free to architect your code in the way that you want.
-
-
-## Quick start
-
-Clone the git repo - `git clone git://github.com/h5bp/html5-boilerplate.git` - or [download it](https://github.com/h5bp/html5-boilerplate/zipball/master)
 
 
 ## Features
@@ -27,11 +26,6 @@ Clone the git repo - `git clone git://github.com/h5bp/html5-boilerplate.git` - o
 * Cross-domain Ajax and Flash.
 * "Delete-key friendly." Easy to strip out parts you don't need.
 * Extensive inline and accompanying documentation.
-
-
-## Contributing
-
-Anyone and everyone is welcome to [contribute](https://github.com/h5bp/html5-boilerplate/wiki/contribute). Hundreds of developers have helped make the HTML5 Boilerplate what it is today.
 
 
 ## Project information
