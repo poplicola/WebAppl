@@ -30,19 +30,12 @@ This project is the product of many years of iterative development and combined 
 
 ## Project information
 
-* Source: http://github.com/h5bp/html5-boilerplate
-* Web: http://html5boilerplate.com
-* Docs: http://html5boilerplate.com/docs
-* Twitter: http://twitter.com/h5bp
+* Source: https://github.com/poplicola/WebAppl
+* Web: http://polymathworkshop.com/webappl
+* Twitter: http://twitter.com/poplicola
 
 
 ## License
-
-### Major components:
-
-* jQuery: MIT/GPL license
-* Modernizr: MIT/BSD license
-* Normalize.css: Public Domain
 
 ### Everything else:
 
